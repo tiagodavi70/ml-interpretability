@@ -23,7 +23,7 @@ Assorted resources about machine learning interpretability.
 [EduClust A Visual Education Platform for Teaching Clustering Algorithms](https://educlust.dbvis.de/)  
 
 ## Guides
-[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)  
 [Model Cards for Model Reporting](https://doi.org/10.1145/3287560.3287596)  
 [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)  
 [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://doi.org/10.1109/TVCG.2018.2843369)  
