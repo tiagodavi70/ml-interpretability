@@ -4,6 +4,7 @@ Assorted resources about machine learning interpretability.
 
 [IEETA Talk 17/05/2023](https://github.com/tiagodavi70/ml-interpretability/blob/main/IEETA-Talk.pdf)  
 [Labvis Talk 09/10/2023](https://github.com/tiagodavi70/ml-interpretability/blob/main/Labvis-Talk.pdf)  
+
 [***Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead***](https://doi.org/10.1038/s42256-019-0048-x)
 
 ## Videos
